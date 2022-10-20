@@ -1,0 +1,16 @@
+
+
+body{
+    background-image:url(MicrosoftTeams-image.png );
+    background-repeat: no-repeat;
+    min-width: 100%;
+    min-height:100vh ;
+
+}
+table {
+    border-spacing: 250px;
+    font-size: 25px;
+    margin-left: -50px;
+    margin-bottom: 100px;
+
+  }
